@@ -1,0 +1,71 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: 960px;
+  /*line-height: 1.65em;*/
+  background: white;
+  color: black;
+  font-weight: 200;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style:italic;
+  font-size: 35px;
+}
+
+.table {
+    margin-top: 30%;
+    align-items: center;
+    margin-left: 27%;
+}
+
+h5 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style:italic;
+  font-size: 14px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+
+
+#wordbox {
+    margin: 20px auto 0;
+    display: block;
+    width: 1000px;
+    height: 40px;
+    font-size: 20px;
+    font-family:sans-serif;
+    /*text-align: center;*/
+    color: #black;
+    transition: 1s linear;
+    border-color: white;
+}
+
+input {
+    border: 0;
+    background: transparent /* the important bit */
+}
+
+img {
+  margin-left: 47%;
+}
+
+
+#button {
+  background: black;
+    border: 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 40px auto 120px;
+    display: block;
+    text-align: center;
+    border-radius: 0px;
+    font-weight: bold;
+    outline-color: #fff;
+
+}
